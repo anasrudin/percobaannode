@@ -1,0 +1,4 @@
+<template>
+
+  <CreateComponent/>
+</template>

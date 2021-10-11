@@ -1,4 +1,4 @@
 <template>
 
-  <CreateComponent/>
+  <ArticleComponent/>
 </template>

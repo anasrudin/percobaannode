@@ -37,7 +37,7 @@ export default {
     return {
       menu: [
         { to: "/", label: "Home" },
-        { to: "#article", label: "Article" },
+        { to: "articles", label: "Article" },
         { to: "create", label: "Create" }
       ]
     };

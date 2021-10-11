@@ -3,7 +3,7 @@
 
     <HomeNav />
 
-    <Article />
+    <CreateArticle />
 
         <Footer />
     </div>
